@@ -3,3 +3,5 @@ node_modules/
 # HyperFrames render output
 renders/
 *.mp4
+# vox-director project output
+out/

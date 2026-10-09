@@ -66,6 +66,12 @@
       "sourceType": "github",
       "skillPath": "skills/media-use/SKILL.md",
       "computedHash": "6a74fc2551e116721d92901406e0f69204a957544e58dd5703a23d07d50f8992"
+    },
+    "vox-director": {
+      "source": "Alisa0808/vox-director",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "1312fb539b526078e407fb3d335cd2c1516c952c643f962d08b053de9d6bd3f4"
     }
   }
 }
