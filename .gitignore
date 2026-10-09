@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+# HyperFrames render output
+renders/
+*.mp4
