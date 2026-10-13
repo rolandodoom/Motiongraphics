@@ -18,6 +18,12 @@ explainer/ad videos (script, collage keyframes, motion, voice-over, music, capti
 Needs an Atlas Cloud API key in `ATLASCLOUD_API_KEY` (https://www.atlascloud.ai/console/api-keys),
 plus ffmpeg and Python Pillow. Its showcase demo videos (`assets/*.mp4`) are not committed.
 
+**Lemo-Opuscar plugin** (`lemo-opuscar@lemolab`, marketplace `lemomo-ai/lemo-opuscar`):
+code-rendered short films in ~40 styles (ink-wash, impasto, papercut, risograph, …).
+Registered in `.claude/settings.json`, so new sessions offer it automatically.
+Its style library and render browser live outside the repo; in a fresh cloud session run
+`sh scripts/setup-lemo-opuscar.sh` once (add `voice` / `music` for those tiers).
+
 Versions are pinned in `skills-lock.json`.
 
 ## Setup on a fresh machine
